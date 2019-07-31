@@ -1,0 +1,12 @@
+PODS:
+  - Stripe/ApplePay (3.1.0):
+    - Stripe/Core
+  - Stripe/Core (3.1.0)
+
+DEPENDENCIES:
+  - Stripe/ApplePay
+
+SPEC CHECKSUMS:
+  Stripe: 8a456332f4db97bd0b8457fc8cce1e1a69ac0cd1
+
+COCOAPODS: 0.36.3
